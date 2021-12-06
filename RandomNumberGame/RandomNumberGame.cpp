@@ -27,6 +27,7 @@ int main() {
 		std::cout << "user to guess the number. The program\n";
 		std::cout << "counts the number of guesses until the\n";
 		std::cout << "user enters the correct number\n";
+		std::cout << "======================================\n";
 
 		do {
 			std::cout << "Enter a guess between " << min << " and " << max << " : ";
